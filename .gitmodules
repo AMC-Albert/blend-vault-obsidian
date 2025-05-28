@@ -7,3 +7,9 @@
 [submodule ".obsidian/plugins/sidecars"]
 	path = .obsidian/plugins/sidecars
 	url = https://github.com/AMC-Albert/obsidian-sidecars
+[submodule ".obsidian/plugins/obsidian-simple-banner"]
+	path = .obsidian/plugins/obsidian-simple-banner
+	url = https://github.com/AMC-Albert/obsidian-simple-banner
+[submodule ".obsidian/plugins/hot-reload"]
+	path = .obsidian/plugins/hot-reload
+	url = https://github.com/pjeby/hot-reload.git
