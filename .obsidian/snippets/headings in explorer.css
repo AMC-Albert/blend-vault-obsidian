@@ -1,0 +1,18 @@
+.file-heading-container > div {
+  padding-left: 0;
+  color: var(--nav-item-color);
+}
+
+.file-heading-container > div::before {
+  content: "⮡";
+  padding-left: 0.2em;
+  padding-right: 0.75em;
+}
+
+.nav-file-tag {
+  align-self: auto;
+}
+
+.nav-file-tag::before {
+  content: ".";
+}

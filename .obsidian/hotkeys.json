@@ -1,0 +1,18 @@
+{
+  "copy-absolute-path:copy-absolute-path-hovered": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "copy-absolute-path:copy-absolute-path-focused": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}

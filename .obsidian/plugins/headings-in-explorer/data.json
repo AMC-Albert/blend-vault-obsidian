@@ -1,0 +1,15 @@
+{
+  "showHeadings": true,
+  "showHeading1": true,
+  "showHeading2": false,
+  "showHeading3": false,
+  "showHeading4": false,
+  "showHeading5": false,
+  "showHeading6": false,
+  "regexArray": [
+    {
+      "pattern": "^\\*\\*([^*]+)\\*\\*$",
+      "level": 7
+    }
+  ]
+}

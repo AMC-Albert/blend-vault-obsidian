@@ -1,0 +1,66 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "off",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {},
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "zEP8P",
+      "name": "blend",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "blend"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-box",
+      "color": "orange"
+    },
+    {
+      "id": "l2FZ8",
+      "name": "sidecar",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": ".side"
+        },
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": ".redirect"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-symlink"
+    }
+  ],
+  "folderRules": []
+}

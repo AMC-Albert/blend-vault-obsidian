@@ -1,0 +1,67 @@
+/* disable title */
+.markdown-embed-title {
+  display: none;
+}
+
+/* Disable the first header in the embed (which is the third div), but only if this
+isn't an embed of a complete node (which can be detected through checking whether the
+title is empty). */
+.markdown-embed-title:empty~.markdown-embed-content .markdown-preview-view .markdown-preview-sizer div:nth-child(3) :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+
+/* Also disable in Dataview embeds */
+.block-language-dataviewjs .markdown-embed.is-loaded div:nth-child(2) :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+
+.note-card .markdown-embed-title:empty~.markdown-preview-view.markdown-rendered.show-indentation-guide :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+
+.note-card .markdown-preview-view.markdown-rendered.show-indentation-guide {
+  padding: var(--embed-padding);
+  border-inline-start: 2px solid var(--indentation-guide-color-active);
+}
+
+.note-card .markdown-preview-view.markdown-rendered.show-indentation-guide > p {
+  margin-top: var(--size-2-1);
+}
+
+.note-card .callout {
+  padding: var(--callout-padding) !important;
+}
+
+.note-card p:has(+ .markdown-embed-title) {
+  margin-bottom: 0;
+}
+
+.note-card .markdown-embed-title:not(:empty)~.markdown-preview-view.markdown-rendered.show-indentation-guide :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 0;
+}
+
+
+
+
+/* show the source in small, grey font at the top */
+.markdown-embed::before {
+  content: attr(alt);
+  display: block;
+  font-size: var(--font-smallest);
+  color: var(--text-muted);
+}
+
+/* change the link button color to be consistent with interactive elements */
+.markdown-embed-link {
+  color: var(--text-accent);
+}
+
+.markdown-embed-link:hover {
+  color: var(--text-accent);
+  background: hsla(var(--interactive-accent-hsl), 0.1);
+}
+
+/* change the left border of markdown embeds to be consistent with non-interactive elements */
+.markdown-embed {
+  border-inline-start: 2px solid var(--indentation-guide-color-active);
+}

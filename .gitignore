@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!.obsidian/
+!.obsidian/**
+!__obsidian__/
+!__obsidian__/**
+
+# But still ignore specific files within exceptions
+.obsidian/workspace.json
