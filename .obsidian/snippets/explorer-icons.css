@@ -1,0 +1,125 @@
+/* image */  
+.nav-file-title[data-path$=".png"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpeg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".gif"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".bmp"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".webp"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".svg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".tiff"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".tif"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".ico"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".avif"] .nav-file-title-content::before {
+  content:'️ ';
+  font-size: var(--font-ui-medium);
+  padding-right: 0.23em;
+}
+
+/* video */
+.nav-file-title[data-path$=".mp4"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".mov"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".avi"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".wmv"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".flv"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".mkv"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".webm"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".mpeg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".mpg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".m4v"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".3gp"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".ogv"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+  padding-right: 0.23em;
+}
+
+/* audio */
+.nav-file-title[data-path$=".mp3"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".wav"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".ogg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".flac"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".aac"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".m4a"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".wma"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".aiff"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".alac"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".opus"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".amr"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+  padding-right: 0.23em;
+}
+
+/* fonts */
+.nav-file-title[data-path$=".ttf"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".otf"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".woff"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".woff2"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".eot"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".fon"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".pfa"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".pfb"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+}
+
+/* pdf */
+.nav-file-title[data-path$=".pdf"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+}
+
+/* md */
+.nav-file-title[data-path$=".md"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+  padding-right: 0.11em;
+  padding-left: 0.12em;
+}
+
+/* json, yaml */
+.nav-file-title[data-path$=".json"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".yaml"] .nav-file-title-content::before {
+  content: ' ';
+  font-size: var(--font-ui-medium);
+  font-size: var(--font-ui-medium);
+}
+
+/* css */
+.nav-file-title[data-path$=".css"] .nav-file-title-content::before{content:'️ ';}
+
+/* javascript */
+.nav-file-title[data-path$=".js"] .nav-file-title-content::before{content:'️ ';}
+
+/* typescript */
+.nav-file-title[data-path$=".ts"] .nav-file-title-content::before{content:'️ ';}
+
+/* krita */
+.nav-file-title[data-path$=".kra"] .nav-file-title-content::before{content:'️ ';}
+
+/* blender */
+.nav-file-title[data-path$=".blend"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".blend1"] .nav-file-title-content::before {
+  content: '󰂫 ';
+  font-size: var(--font-ui-medium);
+}
+
+/* 3d models */
+.nav-file-title[data-path$=".obj"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".fbx"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".stl"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".dae"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".gltf"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".glb"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".3ds"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".ply"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".3mf"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".x3d"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".usd"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".usdz"] .nav-file-title-content::before {
+    content: '󰆧 ';
+    font-size: var(--font-ui-medium);
+}
+
+/* PADDING */
+.nav-files-container .tree-item-self {padding-top: 2px; padding-bottom: 2px}

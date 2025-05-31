@@ -2,6 +2,14 @@
   "enabledCssSnippets": [
     "transclusions",
     "result highlight",
-    "headings in explorer"
-  ]
+    "headings in explorer",
+    "file-explorer-note-count",
+    "explorer-icons"
+  ],
+  "interfaceFontFamily": "RobotoMono Nerd Font Propo",
+  "textFontFamily": "RobotoMono Nerd Font Propo",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "cssTheme": "Minimal",
+  "accentColor": "#2a68d4"
 }

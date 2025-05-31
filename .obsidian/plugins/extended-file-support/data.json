@@ -1,0 +1,11 @@
+{
+  "kra": true,
+  "psd": true,
+  "ai": true,
+  "ai_render_scale": 1.5,
+  "animate_3d_objects": true,
+  "obj": true,
+  "gltf": true,
+  "glb": true,
+  "stl": true
+}
