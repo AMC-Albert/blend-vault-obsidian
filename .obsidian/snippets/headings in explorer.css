@@ -12,7 +12,3 @@
 .nav-file-tag {
   align-self: auto;
 }
-
-.nav-file-tag::before {
-  content: ".";
-}

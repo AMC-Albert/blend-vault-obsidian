@@ -3,5 +3,5 @@
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "promptDelete": false
+  "promptDelete": true
 }
