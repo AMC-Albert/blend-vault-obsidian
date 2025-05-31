@@ -13,3 +13,6 @@
 [submodule ".obsidian/plugins/hot-reload"]
 	path = .obsidian/plugins/hot-reload
 	url = https://github.com/pjeby/hot-reload.git
+[submodule ".obsidian/plugins/obsidian-video-fragments"]
+	path = .obsidian/plugins/obsidian-video-fragments
+	url = https://github.com/AMC-Albert/obsidian-video-fragments
