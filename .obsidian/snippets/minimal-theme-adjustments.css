@@ -1,0 +1,9 @@
+/* Sidecars - non-colored extension tags */
+.nav-file-tag.sidecar-tag.no-color {
+  color: var(--text-faint) !important;
+}
+.nav-file-title:hover .nav-file-tag.sidecar-tag.no-color,
+.nav-file-title.is-active .nav-file-tag.sidecar-tag.no-color,
+.nav-file-tag.sidecar-tag.no-color:hover {
+  color: var(--text-muted) !important;
+}

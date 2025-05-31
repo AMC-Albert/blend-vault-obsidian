@@ -1,3 +1,15 @@
+/* folder */
+.nav-folder-title .nav-folder-title-content::before {
+  content:'️󰷏 ';
+  font-size: var(--font-ui-medium);
+  padding-left: 0.05em;
+}
+/* folder collapse */
+.is-collapsed .nav-folder-title .nav-folder-title-content::before {
+  content:'️󰉖 ';
+  font-size: var(--font-ui-medium);
+  padding-left: 0.05em;
+}
 /* image */  
 .nav-file-title[data-path$=".png"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".jpg"] .nav-file-title-content::before,
@@ -10,9 +22,10 @@
 .nav-file-title[data-path$=".tif"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".ico"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".avif"] .nav-file-title-content::before {
-  content:'️ ';
+  content:'️󰈟 ';
   font-size: var(--font-ui-medium);
-  padding-right: 0.23em;
+  padding-right: 0.1em;
+  padding-left: 0.1em;
 }
 
 /* video */
@@ -28,9 +41,10 @@
 .nav-file-title[data-path$=".m4v"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".3gp"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".ogv"] .nav-file-title-content::before {
-  content: ' ';
+  content: '󰈫 ';
   font-size: var(--font-ui-medium);
-  padding-right: 0.23em;
+  padding-right: 0.1em;
+  padding-left: 0.1em;
 }
 
 /* audio */
@@ -45,9 +59,10 @@
 .nav-file-title[data-path$=".alac"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".opus"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".amr"] .nav-file-title-content::before {
-  content: ' ';
+  content: '󰈣 ';
   font-size: var(--font-ui-medium);
-  padding-right: 0.23em;
+  padding-right: 0.1em;
+  padding-left: 0.1em;
 }
 
 /* fonts */
@@ -71,10 +86,18 @@
 
 /* md */
 .nav-file-title[data-path$=".md"] .nav-file-title-content::before {
-  content: ' ';
+  content: '󰈔 ';
   font-size: var(--font-ui-medium);
-  padding-right: 0.11em;
-  padding-left: 0.12em;
+  padding-right: 0.1em;
+  padding-left: 0.1em;
+}
+
+/* side */
+.nav-file-title[data-path$=".side.md"] .nav-file-title-content::before {
+  content: '󰝒 ';
+  font-size: var(--font-ui-medium);
+  padding-right: 0.1em;
+  padding-left: 0.1em;
 }
 
 /* json, yaml */

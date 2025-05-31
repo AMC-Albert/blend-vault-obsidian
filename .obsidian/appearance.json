@@ -4,7 +4,10 @@
     "result highlight",
     "headings in explorer",
     "file-explorer-note-count",
-    "explorer-icons"
+    "explorer-icons",
+    "file-info-panel",
+    "minimal-theme-adjustments",
+    "highlight-active-folder-section"
   ],
   "interfaceFontFamily": "RobotoMono Nerd Font Propo",
   "textFontFamily": "RobotoMono Nerd Font Propo",

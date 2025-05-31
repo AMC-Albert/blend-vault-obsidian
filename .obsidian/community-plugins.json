@@ -1,19 +1,20 @@
 [
   "better-markdown-links",
   "double-click-non-native",
-  "copy-absolute-path",
   "hot-reload",
   "obsidian42-brat",
   "backlink-cache",
   "obsidian-git",
-  "sidecars",
   "simple-banner",
   "extended-file-support",
-  "file-explorer-note-count",
-  "nerdfont-icon-picker",
   "css-editor",
   "video-fragments",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "highlight-active-folder-section"
+  "highlight-active-folder-section",
+  "obsidian-file-info-plugin",
+  "file-explorer-note-count",
+  "copy-absolute-path",
+  "obsidian-bartender",
+  "sidecars"
 ]

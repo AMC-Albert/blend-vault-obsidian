@@ -3,7 +3,7 @@
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "trashOption": "system",
   "showLineNumber": true
 }

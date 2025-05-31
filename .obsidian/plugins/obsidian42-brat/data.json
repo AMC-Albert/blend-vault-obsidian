@@ -1,6 +1,13 @@
 {
-  "pluginList": [],
-  "pluginSubListFrozenVersion": [],
+  "pluginList": [
+    "Mara-Li/obsidian-bartender"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Mara-Li/obsidian-bartender",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
