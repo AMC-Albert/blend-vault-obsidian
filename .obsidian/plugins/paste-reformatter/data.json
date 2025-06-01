@@ -1,0 +1,16 @@
+{
+  "pasteOverride": true,
+  "maxHeadingLevel": 1,
+  "removeEmptyElements": false,
+  "cascadeHeadingLevels": true,
+  "contextualCascade": true,
+  "stripLineBreaks": false,
+  "removeEmptyLines": false,
+  "htmlRegexReplacements": [],
+  "markdownRegexReplacements": [
+    {
+      "pattern": "^(.*?[\\\\/])([a-fA-F0-9]{64}\\.[a-zA-Z0-9]+)(#t=[0-9]+(?:\\.[0-9]+)?)?$",
+      "replacement": "![[$2$3]]"
+    }
+  ]
+}

@@ -1,8 +1,13 @@
 {
   "pluginList": [
+    "sidkhuntia/obsdian-headings-helper",
     "Mara-Li/obsidian-bartender"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "sidkhuntia/obsdian-headings-helper",
+      "version": "latest"
+    },
     {
       "repo": "Mara-Li/obsidian-bartender",
       "version": "latest"

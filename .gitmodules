@@ -16,3 +16,9 @@
 [submodule ".obsidian/plugins/obsidian-video-fragments"]
 	path = .obsidian/plugins/obsidian-video-fragments
 	url = https://github.com/AMC-Albert/obsidian-video-fragments
+[submodule ".obsidian/plugins/obsidian-quick-dates"]
+	path = .obsidian/plugins/obsidian-quick-dates
+	url = https://github.com/AMC-Albert/obsidian-quick-dates
+[submodule ".obsidian/plugins/obsidian-subversion"]
+	path = .obsidian/plugins/obsidian-subversion
+	url = https://github.com/AMC-Albert/obsidian-subversion

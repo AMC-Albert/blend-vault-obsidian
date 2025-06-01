@@ -7,3 +7,14 @@
 .nav-file-tag.sidecar-tag.no-color:hover {
   color: var(--text-muted) !important;
 }
+/* Smaller settings headings/controls */
+.setting-item-name {
+  font-size: var(--font-ui-small);
+}
+.setting-item-control * {
+  font-size: var(--font-ui-smaller);
+}
+/* Plugin compatibility: Highlight active folder selection */
+.colorful-active .highlighted-folder .nav-file-title.is-active:hover {
+  background-color: var(--interactive-accent) !important;
+}

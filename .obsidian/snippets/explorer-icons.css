@@ -1,3 +1,5 @@
+/* https://www.nerdfonts.com/cheat-sheet */
+
 /* folder */
 .nav-folder-title .nav-folder-title-content::before {
   content:'️󰷏 ';
@@ -105,7 +107,6 @@
 .nav-file-title[data-path$=".yaml"] .nav-file-title-content::before {
   content: ' ';
   font-size: var(--font-ui-medium);
-  font-size: var(--font-ui-medium);
 }
 
 /* css */
@@ -117,8 +118,26 @@
 /* typescript */
 .nav-file-title[data-path$=".ts"] .nav-file-title-content::before{content:'️ ';}
 
+/* python */
+.nav-file-title[data-path$=".py"] .nav-file-title-content::before {
+  content:'️ ';
+  padding-left: 0.12em;
+  padding-right: 0.07em;
+}
+
+/* code-workspace */
+.nav-file-title[data-path$=".code-workspace"] .nav-file-title-content::before {
+  content:'️ ';
+  font-size: var(--font-ui-medium);
+  padding-left: 0.02em;
+  padding-right: 0.02em;
+}
+
 /* krita */
-.nav-file-title[data-path$=".kra"] .nav-file-title-content::before{content:'️ ';}
+.nav-file-title[data-path$=".kra"] .nav-file-title-content::before {
+  content:'️ ';
+  font-size: var(--font-ui-medium);
+}
 
 /* blender */
 .nav-file-title[data-path$=".blend"] .nav-file-title-content::before,

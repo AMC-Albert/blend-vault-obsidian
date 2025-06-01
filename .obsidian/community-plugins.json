@@ -3,7 +3,6 @@
   "double-click-non-native",
   "hot-reload",
   "obsidian42-brat",
-  "backlink-cache",
   "obsidian-git",
   "simple-banner",
   "extended-file-support",
@@ -11,10 +10,17 @@
   "video-fragments",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "highlight-active-folder-section",
   "obsidian-file-info-plugin",
   "file-explorer-note-count",
   "copy-absolute-path",
   "obsidian-bartender",
-  "sidecars"
+  "sidecars",
+  "backlink-settings",
+  "open-vscode",
+  "quick-dates",
+  "heading-helper",
+  "heading-decorator",
+  "paste-reformatter",
+  "subversion",
+  "highlight-active-folder-section"
 ]
