@@ -3,7 +3,6 @@
   "double-click-non-native",
   "hot-reload",
   "obsidian42-brat",
-  "obsidian-git",
   "simple-banner",
   "extended-file-support",
   "css-editor",
@@ -11,7 +10,6 @@
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-file-info-plugin",
-  "file-explorer-note-count",
   "copy-absolute-path",
   "obsidian-bartender",
   "sidecars",
@@ -22,5 +20,7 @@
   "heading-decorator",
   "paste-reformatter",
   "subversion",
-  "highlight-active-folder-section"
+  "file-explorer-note-count",
+  "highlight-active-folder-section",
+  "obsidian-git"
 ]
