@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "fly_nav_ext",
+			"path": "../../../.blender/user_resources/extensions/user_default/fly_nav_ext"
+		},
+		{
+			"name": "vscode-workspaces",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
