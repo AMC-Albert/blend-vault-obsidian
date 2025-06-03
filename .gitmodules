@@ -3,7 +3,7 @@
 	url = https://github.com/AMC-Albert/obsidian-copy-absolute-path
 [submodule ".obsidian/plugins/click-unsupported-files"]
 	path = .obsidian/plugins/click-unsupported-files
-	url = https://github.com/AMC-Albert/obsidian-double-click-non-native
+	url = https://github.com/AMC-Albert/obsidian-click-unsupported-files
 [submodule ".obsidian/plugins/sidecars"]
 	path = .obsidian/plugins/sidecars
 	url = https://github.com/AMC-Albert/obsidian-sidecars
