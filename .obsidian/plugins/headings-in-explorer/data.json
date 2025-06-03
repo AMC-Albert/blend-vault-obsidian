@@ -1,11 +1,13 @@
 {
+  "showHeadingsForAllFolders": true,
+  "showHeadingFolders": [],
   "showHeadings": true,
   "showHeading1": true,
-  "showHeading2": false,
-  "showHeading3": false,
-  "showHeading4": false,
-  "showHeading5": false,
-  "showHeading6": false,
+  "showHeading2": true,
+  "showHeading3": true,
+  "showHeading4": true,
+  "showHeading5": true,
+  "showHeading6": true,
   "regexArray": [
     {
       "pattern": "^\\*\\*([^*]+)\\*\\*$",

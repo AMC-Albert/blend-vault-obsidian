@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "udbhav-s/obsidian-headings-in-explorer",
     "sidkhuntia/obsdian-headings-helper",
     "Mara-Li/obsidian-bartender"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "udbhav-s/obsidian-headings-in-explorer",
+      "version": "latest"
+    },
     {
       "repo": "sidkhuntia/obsdian-headings-helper",
       "version": "latest"

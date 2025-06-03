@@ -9,10 +9,8 @@
   "video-fragments",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "obsidian-file-info-plugin",
   "copy-absolute-path",
   "obsidian-bartender",
-  "sidecars",
   "backlink-settings",
   "open-vscode",
   "quick-dates",
@@ -22,5 +20,7 @@
   "subversion",
   "file-explorer-note-count",
   "highlight-active-folder-section",
-  "obsidian-git"
+  "obsidian-git",
+  "sidecars",
+  "click-unsupported-files"
 ]

@@ -1,17 +1,17 @@
 ---
-title: "Version Control with Subversion"
-source: "https://svnbook.red-bean.com/en/1.7/svn-book.html"
+title: Version Control with Subversion
+source: https://svnbook.red-bean.com/en/1.7/svn-book.html
 author:
   - "[[Ben Collins-Sussman]]"
   - "[[Brian W. Fitzpatrick]]"
   - "[[C. Michael Pilato]]"
   - "[[Karl Fogel]]"
   - "[[svnlook author]]"
-published:
+published: 
 created: 2025-06-01
-description:
+description: change
 tags:
-  - "clippings"
+  - clippings
 ---
 ## For Subversion 1.7
 
@@ -15066,4 +15066,13 @@ defined, [The Working Copy](https://svnbook.red-bean.com/en/1.7/#svn.basic.worki
 
 mixed-revision, [Mixed-revision working copies](https://svnbook.red-bean.com/en/1.7/#svn.basic.in-action.mixedrevs)
 
-update, [Fundamental working copy interactions](https://svnbook.red-bean.com/en/1.7/#svn.basic.in-action.wc-funcdamentals)
+update, [Fundamental working copy interactions](https://svnbook.red-bean.com/en/1.7/#svn.basic.in-action.wc-funcdamentals)T e s t   u p d a t e   f o r   r e v i s i o n   3 
+ 
+ 
+ T e s t   l i n e   f o r   r e v i s i o n   3 
+ 
+ T e s t   c o n t e n t   a d d i t i o n 
+ 
+ A n o t h e r   t e s t   l i n e 
+ 
+ 
