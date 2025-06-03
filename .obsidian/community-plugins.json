@@ -22,5 +22,6 @@
   "highlight-active-folder-section",
   "obsidian-git",
   "sidecars",
-  "click-unsupported-files"
+  "click-unsupported-files",
+  "fetch-blender-builds"
 ]

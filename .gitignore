@@ -5,8 +5,10 @@
 !.gitignore
 !.obsidian/
 !.obsidian/**
-!__obsidian__/
-!__obsidian__/**
+!!admin/
+!!admin/**
+!.blender/user_resources/
+!.blender/user_resources/**
 
 # But still ignore specific files within exceptions
 .obsidian/workspace.json

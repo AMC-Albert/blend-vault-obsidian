@@ -22,3 +22,6 @@
 [submodule ".obsidian/plugins/obsidian-subversion"]
 	path = .obsidian/plugins/obsidian-subversion
 	url = https://github.com/AMC-Albert/obsidian-subversion
+[submodule ".obsidian/plugins/obsidian-fetch-blender-builds"]
+	path = .obsidian/plugins/obsidian-fetch-blender-builds
+	url = https://github.com/AMC-Albert/obsidian-fetch-blender-builds
