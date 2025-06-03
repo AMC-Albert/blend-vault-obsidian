@@ -1,8 +1,8 @@
 [submodule ".obsidian/plugins/copy-absolute-path"]
 	path = .obsidian/plugins/copy-absolute-path
 	url = https://github.com/AMC-Albert/obsidian-copy-absolute-path
-[submodule ".obsidian/plugins/double-click-non-native"]
-	path = .obsidian/plugins/double-click-non-native
+[submodule ".obsidian/plugins/click-unsupported-files"]
+	path = .obsidian/plugins/click-unsupported-files
 	url = https://github.com/AMC-Albert/obsidian-double-click-non-native
 [submodule ".obsidian/plugins/sidecars"]
 	path = .obsidian/plugins/sidecars
