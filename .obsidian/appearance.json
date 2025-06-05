@@ -6,14 +6,13 @@
     "file-explorer-note-count",
     "explorer-icons",
     "file-info-panel",
-    "minimal-theme-adjustments",
     "highlight-active-folder-section"
   ],
-  "interfaceFontFamily": "RobotoMono Nerd Font Propo",
-  "textFontFamily": "RobotoMono Nerd Font Propo",
+  "interfaceFontFamily": "FiraCode Nerd Font Propo,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",
+  "textFontFamily": "Fira Sans,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "#2a68d4",
   "theme": "obsidian"
 }
