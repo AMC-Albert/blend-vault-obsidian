@@ -6,7 +6,8 @@
     "file-explorer-note-count",
     "explorer-icons",
     "file-info-panel",
-    "highlight-active-folder-section"
+    "highlight-active-folder-section",
+    "file-explorer"
   ],
   "interfaceFontFamily": "FiraCode Nerd Font Propo,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",
   "textFontFamily": "Fira Sans,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",

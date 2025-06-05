@@ -1,3 +1,4 @@
+/* 'File Explorer Note Count' Styles */
 .oz-explorer-root-nav-folder-title {
   color: var(--text-muted);
   font-size: var(--font-ui-medium);
@@ -8,4 +9,9 @@
   content: "";
   padding-right: 0.5em;
   font-size: var(--font-ui-large);
+}
+
+/* No wrap for file extension tags with word breaks (.code-workspace) */
+.nav-file-tag {
+  white-space: nowrap;
 }
