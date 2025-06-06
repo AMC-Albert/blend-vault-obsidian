@@ -8,8 +8,6 @@
 !!admin/
 !!admin/**
 !.blender/
-!.blender/user_resources/
-!.blender/user_resources/**
 
 # But still ignore specific files within exceptions
 .obsidian/workspace.json

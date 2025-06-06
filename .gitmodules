@@ -28,3 +28,6 @@
 [submodule ".blender/user_resources"]
 	path = .blender/user_resources
 	url = https://github.com/AMC-Albert/user_resources
+[submodule ".mpv"]
+	path = .mpv
+	url = https://github.com/AMC-Albert/mpv
