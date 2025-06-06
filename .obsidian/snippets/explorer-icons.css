@@ -144,6 +144,7 @@
 .nav-file-title[data-path$=".blend1"] .nav-file-title-content::before {
   content: '󰂫 ';
   font-size: var(--font-ui-medium);
+  padding-right: 0.09em;
 }
 
 /* 3d models */

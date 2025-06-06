@@ -17,5 +17,6 @@
   "obsidian-git",
   "sidecars",
   "click-unsupported-files",
-  "fetch-blender-builds"
+  "fetch-blender-builds",
+  "obsidian-kanban"
 ]
