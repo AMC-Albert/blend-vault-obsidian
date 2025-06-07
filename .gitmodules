@@ -13,9 +13,6 @@
 [submodule ".obsidian/plugins/hot-reload"]
 	path = .obsidian/plugins/hot-reload
 	url = https://github.com/pjeby/hot-reload.git
-[submodule ".obsidian/plugins/obsidian-video-fragments"]
-	path = .obsidian/plugins/obsidian-video-fragments
-	url = https://github.com/AMC-Albert/obsidian-video-fragments
 [submodule ".obsidian/plugins/obsidian-quick-dates"]
 	path = .obsidian/plugins/obsidian-quick-dates
 	url = https://github.com/AMC-Albert/obsidian-quick-dates
@@ -31,3 +28,6 @@
 [submodule ".mpv"]
 	path = .mpv
 	url = https://github.com/AMC-Albert/mpv
+[submodule ".obsidian/plugins/obsidian-fragments"]
+	path = .obsidian/plugins/obsidian-fragments
+	url = https://github.com/AMC-Albert/obsidian-fragments
