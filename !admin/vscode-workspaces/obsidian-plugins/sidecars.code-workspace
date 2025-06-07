@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "sidecars",
 			"path": "../../../.obsidian/plugins/sidecars"
 		},
 		{
+			"name": "obsidian-plugins",
 			"path": "."
 		}
 	],

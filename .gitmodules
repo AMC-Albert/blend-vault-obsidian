@@ -22,9 +22,9 @@
 [submodule ".obsidian/plugins/obsidian-subversion"]
 	path = .obsidian/plugins/obsidian-subversion
 	url = https://github.com/AMC-Albert/obsidian-subversion
-[submodule ".obsidian/plugins/obsidian-fetch-blender-builds"]
-	path = .obsidian/plugins/obsidian-fetch-blender-builds
-	url = https://github.com/AMC-Albert/obsidian-fetch-blender-builds
+[submodule ".obsidian/plugins/obsidian-blender-build-manager"]
+	path = .obsidian/plugins/obsidian-blender-build-manager
+	url = https://github.com/AMC-Albert/obsidian-blender-build-manager
 [submodule ".blender/user_resources"]
 	path = .blender/user_resources
 	url = https://github.com/AMC-Albert/user_resources

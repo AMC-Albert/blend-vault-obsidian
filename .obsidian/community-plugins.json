@@ -1,5 +1,4 @@
 [
-  "better-markdown-links",
   "double-click-non-native",
   "hot-reload",
   "extended-file-support",
@@ -15,8 +14,8 @@
   "subversion",
   "file-explorer-note-count",
   "obsidian-git",
-  "sidecars",
   "click-unsupported-files",
   "fetch-blender-builds",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "sidecars"
 ]
