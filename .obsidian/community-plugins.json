@@ -2,7 +2,6 @@
   "double-click-non-native",
   "hot-reload",
   "extended-file-support",
-  "video-fragments",
   "copy-absolute-path",
   "obsidian-bartender",
   "backlink-settings",
@@ -15,7 +14,8 @@
   "file-explorer-note-count",
   "obsidian-git",
   "click-unsupported-files",
-  "fetch-blender-builds",
   "obsidian-kanban",
-  "sidecars"
+  "sidecars",
+  "fragments",
+  "blender-build-manager"
 ]

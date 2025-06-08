@@ -31,3 +31,6 @@
 [submodule ".obsidian/plugins/obsidian-fragments"]
 	path = .obsidian/plugins/obsidian-fragments
 	url = https://github.com/AMC-Albert/obsidian-fragments
+[submodule ".obsidian/plugins/template-plugin"]
+	path = .obsidian/plugins/template-plugin
+	url = https://github.com/AMC-Albert/obsidian-template-plugin
