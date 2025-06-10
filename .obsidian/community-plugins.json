@@ -10,15 +10,15 @@
   "heading-helper",
   "heading-decorator",
   "paste-reformatter",
-  "subversion",
   "file-explorer-note-count",
   "obsidian-git",
   "click-unsupported-files",
   "obsidian-kanban",
-  "sidecars",
   "fragments",
   "blender-build-manager",
   "obsidian42-brat",
   "frontmatter-image",
-  "open-tab-settings"
+  "open-tab-settings",
+  "sidecars",
+  "subversion"
 ]
