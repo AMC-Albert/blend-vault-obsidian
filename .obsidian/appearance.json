@@ -7,13 +7,15 @@
     "explorer-icons",
     "file-info-panel",
     "highlight-active-folder-section",
-    "file-explorer"
+    "file-explorer",
+    "blender-theme",
+    "blender-colors"
   ],
-  "interfaceFontFamily": "FiraCode Nerd Font Propo,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",
-  "textFontFamily": "Fira Sans,UbuntuMono Nerd Font Propo,Ubuntu Nerd Font,RobotoMono Nerd Font Propo",
+  "interfaceFontFamily": "Inter,RobotoMono Nerd Font Propo",
+  "textFontFamily": "Inter,RobotoMono Nerd Font Propo",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
   "cssTheme": "",
-  "accentColor": "#2a68d4",
+  "accentColor": "#4772b3",
   "theme": "obsidian"
 }

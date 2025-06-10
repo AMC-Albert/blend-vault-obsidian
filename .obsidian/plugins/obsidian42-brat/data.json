@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "EzraMarks/obsidian-frontmatter-image",
     "sidkhuntia/obsdian-headings-helper",
     "Mara-Li/obsidian-bartender"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "EzraMarks/obsidian-frontmatter-image",
+      "version": "latest"
+    },
     {
       "repo": "sidkhuntia/obsdian-headings-helper",
       "version": "latest"
