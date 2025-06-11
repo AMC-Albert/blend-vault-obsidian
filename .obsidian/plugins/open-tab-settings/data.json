@@ -1,5 +1,5 @@
 {
-  "openInNewTab": true,
+  "openInNewTab": false,
   "deduplicateTabs": true,
   "newTabPlacement": "after-active",
   "openNewTabsInOtherTabGroup": false
