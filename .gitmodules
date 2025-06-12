@@ -23,10 +23,10 @@
 	path = .obsidian/plugins/obsidian-blender-build-manager
 	url = https://github.com/AMC-Albert/obsidian-blender-build-manager
 [submodule ".blender/user_resources"]
-	path = .blender/user_resources
+	path = .bin/blender/user_resources
 	url = https://github.com/AMC-Albert/user_resources
 [submodule ".mpv"]
-	path = .mpv
+	path = .bin/mpv
 	url = https://github.com/AMC-Albert/mpv
 [submodule ".obsidian/plugins/obsidian-fragments"]
 	path = .obsidian/plugins/obsidian-fragments
