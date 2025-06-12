@@ -11,3 +11,13 @@
 
 # But still ignore specific files within exceptions
 .obsidian/workspace.json
+
+# Workspace management - track config but ignore dependencies
+!.obsidian/plugins/.workspace/
+!.obsidian/plugins/.workspace/**
+.obsidian/plugins/.workspace/node_modules/
+.obsidian/plugins/.workspace/pnpm-store/
+.obsidian/plugins/.workspace/pnpm-lock.yaml
+
+# Individual plugin node_modules (if any remain)
+.obsidian/plugins/*/node_modules/

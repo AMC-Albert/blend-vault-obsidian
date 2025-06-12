@@ -1,0 +1,10 @@
+packages:
+  - '../asset-increment'
+  - '../click-unsupported-files'
+  - '../copy-absolute-path'
+  - '../hot-reload'
+  - '../obsidian-blender-build-manager'
+  - '../obsidian-quick-dates'
+  - '../obsidian-subversion'
+  - '../obsidian-video-fragments'
+  - '../sidecars'

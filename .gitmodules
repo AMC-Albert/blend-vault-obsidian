@@ -34,3 +34,6 @@
 [submodule ".obsidian/plugins/template-plugin"]
 	path = .obsidian/plugins/template-plugin
 	url = https://github.com/AMC-Albert/obsidian-template-plugin
+[submodule ".obsidian/plugins/asset-increment"]
+	path = .obsidian/plugins/asset-increment
+	url = https://github.com/AMC-Albert/obsidian-asset-increment
