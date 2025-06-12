@@ -19,6 +19,7 @@
   "obsidian42-brat",
   "frontmatter-image",
   "open-tab-settings",
-  "subversion",
-  "sidecars"
+  "sidecars",
+  "obsidian-asset-increment",
+  "asset-increment"
 ]
