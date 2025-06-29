@@ -1,0 +1,11 @@
+{
+  "enableCycling": true,
+  "showGutterBadges": true,
+  "wrapAfterH6": true,
+  "minLevel": 1,
+  "maxLevel": 6,
+  "badgeBackgroundColor": "#3b82f6",
+  "badgeTextColor": "#ffffff",
+  "checkHierarchy": true,
+  "allowHierarchyOverride": false
+}
